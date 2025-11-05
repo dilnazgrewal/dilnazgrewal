@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dilnaz Grewal
+# 👋 Hi, I'm Dilnaz Kaur Grewal
 
 I'm a **Computer Science and Engineering student** at **Guru Nanak Dev Engineering College (GNDEC)**.  
 I love exploring how technology can make everyday life easier — especially through **AI, data science, and web development**.
@@ -34,8 +34,9 @@ I love exploring how technology can make everyday life easier — especially thr
 ---
 
 ### 📬 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dilnazgrewal05/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dilnazgrewal05/)
 [![Gmail](https://img.shields.io/badge/Email-dilnazkaur285@gmail.com-red?style=flat&logo=gmail)](mailto:dilnazkaur285@gmail.com)
+
 
 ---
 

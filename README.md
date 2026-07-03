@@ -27,12 +27,6 @@ I love exploring how technology can make everyday life easier — especially thr
 
 ---
 
-### 📈 GitHub Stats
-![Dilnaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dilnazgrewal&show_icons=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dilnazgrewal&layout=compact&theme=transparent)
-
----
-
 ### 📫 Connect with me
 
 <a href="https://www.linkedin.com/in/dilnazgrewal05/" target="_blank">

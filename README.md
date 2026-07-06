@@ -22,7 +22,7 @@ I love exploring how technology can make everyday life easier — especially thr
 ---
 
 ### 🚀 Current Projects
-- **FinSight** – An AI-powered expense tracker that categorizes transactions, visualizes spending, and helps plan finances.  
+- **Smart Task & Productivity API** - FastAPI, SQLAlchemy, PostgreSQL
 - **Career Compass (concept)** – A platform that aligns with **NEP 2020** to guide students with AI-based career insights.
 
 ---

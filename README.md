@@ -6,7 +6,7 @@ I love exploring how technology can make everyday life easier — especially thr
 ---
 
 ### 🌱 A bit about me
-- Currently learning **Python**, **Pandas**, and diving deeper into **Data Science**.
+- Currently learning **FastAPI**, **MySQL**, **Django** and diving deeper into **Data Science**.
 - Strengthening my concepts in **Algorithms and Data Structures** to write efficient code.  
 - Exploring **Web Development**, focusing on frontend technologies like HTML, CSS, and JavaScript.
 - I’ve worked on projects around **AI-driven expense tracking** and **career guidance systems**.    
@@ -15,9 +15,9 @@ I love exploring how technology can make everyday life easier — especially thr
 ---
 
 ### 💻 Tech Stack
-- **Languages:** Python, HTML, CSS, JavaScript, C++ 
+- **Languages:** Python, C/C++, HTML, CSS 
 - **Libraries & Tools:** Pandas, Matplotlib, LangChain, Gemini API, VS Code  
-- **Areas of Interest:** AI, Data Science, Front-end Development, Prompt Engineering, Machine Learning 
+- **Areas of Interest:** AI, Data Science, Machine Learning, Prompt Engineering
 
 ---
 

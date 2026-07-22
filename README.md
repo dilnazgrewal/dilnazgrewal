@@ -15,9 +15,12 @@ I love exploring how technology can make everyday life easier — especially thr
 ---
 
 ### 💻 Tech Stack
-- **Languages:** Python, C/C++, HTML, CSS 
-- **Libraries & Tools:** Pandas, Matplotlib, LangChain, Gemini API, VS Code  
-- **Areas of Interest:** AI, Data Science, Machine Learning, Prompt Engineering
+- **Languages:** Python, SQL, C/C++, HTML, CSS
+- **Frameworks & Libraries:** FastAPI, SQLAlchemy, Pandas, NumPy, Matplotlib, Scikit-learn, LangChain
+- **Databases:** PostgreSQL
+- **AI & ML:** Machine Learning, Generative AI, Prompt Engineering, Gemini API
+- **Tools & Platforms:** Git, GitHub, VS Code, Jupyter Notebook, Streamlit
+- **Areas of Interest:** Artificial Intelligence, Data Science, Machine Learning, Backend Development
 
 ---
 

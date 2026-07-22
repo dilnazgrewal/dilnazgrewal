@@ -25,8 +25,8 @@ I love exploring how technology can make everyday life easier — especially thr
 ---
 
 ### 🚀 Current Projects
-- **Smart Task & Productivity API** - FastAPI, SQLAlchemy, PostgreSQL
-- **Career Compass (concept)** – A platform that aligns with **NEP 2020** to guide students with AI-based career insights.
+- **MediTrack** – A Hospital Management System built with **FastAPI, SQLAlchemy, PostgreSQL, and Streamlit**, featuring secure patient, doctor, and appointment management.
+- **AI-Powered Customer Churn Prediction System** – An end-to-end machine learning application using **Scikit-learn, SHAP, and Gemini API** to predict customer churn, explain predictions, and generate AI-driven retention recommendations.
 
 ---
 
